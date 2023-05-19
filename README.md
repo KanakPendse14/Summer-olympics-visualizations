@@ -16,7 +16,7 @@ This dataset is especially useful for beginners who want to learn advanced Excel
 In summary, the "Summer Olympics Medals" dataset is a valuable resource for data scientists, providing a rich source of data that can be used for a wide range of analytical and predictive tasks. By exploring and analyzing this data, analysts can gain insights into trends and patterns in Olympic medal results, as well as develop predictive models to forecast future outcomes.
 
 
-##Field	Description
+## Field	Description
 
 * City: City that hosted the Olympic Games
 * Year:	Year the Olympic Games took place (held every 4yrs)
@@ -29,3 +29,5 @@ In summary, the "Summer Olympics Medals" dataset is a valuable resource for data
 * Country: Country to which the winning athlete represents
 * Event Gender: (Male, Female or Common Event)
 * Medal: Medal Awarded(eg. Bronze, Silver, Gold)
+
+## Check the .pynb file to see the plots and Analysis
